@@ -3,9 +3,8 @@
   "version": "2.0",
   "description": "Checks prices in different stores for selected product on Castorama site.",
   "background": {
-   "service_worker": [
-      "background.js"
-    ]
+   "service_worker": "background.js"
+    
   },
   "permissions": [
     "activeTab",
