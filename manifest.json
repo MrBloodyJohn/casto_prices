@@ -9,8 +9,7 @@
   },
   "permissions": [
     "activeTab",
-    "storage",
-    
+    "storage"
   ],
   "host_permissions":[
     "https://api.kingfisher.com/*"
